@@ -1,0 +1,7 @@
+
+ Run 0: 4134 Run 1: 4124 Run 2: 4146 Run 3: 4190 Run 4: 4156 Run 5: 4113 Run 6: 4189 Run 7: 4146 Run 8: 4200 Run 9: 4178 aver:4157.6
+Optimal value: 0
+Proximity = Infinity
+ Run 0: 4032 Run 1: 4034 Run 2: 4072 Run 3: 4060 Run 4: 4057 Run 5: 4046 Run 6: 4025 Run 7: 4069 Run 8: 4047 Run 9: 4064 aver:4050.6
+Optimal value: 0
+Proximity = Infinity

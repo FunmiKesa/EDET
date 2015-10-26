@@ -1,0 +1,13 @@
+ry48p
+ Run 0: 16020 Run 1: 15780 Run 2: 15263 Run 3: 15384 Run 4: 15572 Run 5: 15752 Run 6: 15814 Run 7: 15602 Run 8: 16141 Run 9: 15829 aver:15715.7
+Optimal value: 0
+Proximity = Infinityry48p
+ Run 0: 16056 Run 1: 15999 Run 2: 15101 Run 3: 14946 Run 4: 15478 Run 5: 15166 Run 6: 15501 Run 7: 15211 Run 8: 15480 Run 9: 15854 aver:15479.2
+Optimal value: 0
+Proximity = Infinityry48p
+ Run 0: 15673 Run 1: 17596 Run 2: 16234 Run 3: 16123 Run 4: 16769 Run 5: 15556 Run 6: 15234 Run 7: 18047 Run 8: 17418 Run 9: 16617 aver:16526.7
+Optimal value: 0
+Proximity = Infinityry48p
+ Run 0: 15123 Run 1: 14648 Run 2: 14958 Run 3: 15023 Run 4: 15137 aver:14977.8
+Optimal value: 0
+Proximity = Infinity

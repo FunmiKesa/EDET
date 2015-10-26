@@ -1,0 +1,55 @@
+p43
+ Run 0: 5628 Run 1: 5626 Run 2: 5622 Run 3: 5620 Run 4: 5623 aver:5623.8
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5622 Run 1: 5622 Run 2: 5624 Run 3: 5624 Run 4: 5630 aver:5624.4
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5627 Run 1: 5625 Run 2: 5626 Run 3: 5624 Run 4: 5620 aver:5624.4
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5622 Run 1: 5624 Run 2: 5625 Run 3: 5622 Run 4: 5623 Run 5: 5629 Run 6: 5626 Run 7: 5628 Run 8: 5626 Run 9: 5628 aver:5625.3
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5624 Run 1: 5629 Run 2: 5624 Run 3: 5620 Run 4: 5622 Run 5: 5623 Run 6: 5627 Run 7: 5628 Run 8: 5623 Run 9: 5627 aver:5624.7
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5627 Run 1: 5627 Run 2: 5627 Run 3: 5627 Run 4: 5623 Run 5: 5627 Run 6: 5620 Run 7: 5623 Run 8: 5623 Run 9: 5625 aver:5624.9
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 17167 Run 1: 17205 Run 2: 17205 Run 3: 17205 Run 4: 17205 aver:17197.4
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 22536 Run 1: 22536 Run 2: 22536 Run 3: 22536 Run 4: 22536 aver:22536
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 11741 Run 1: 22502 Run 2: 22502 Run 3: 22502 Run 4: 22502 aver:20349.8
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 22784 Run 1: 22784 Run 2: 22784 Run 3: 22784 Run 4: 22784 aver:22784
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5630 Run 1: 5632 Run 2: 5621 Run 3: 5628 Run 4: 5626 aver:5627.4
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5620 Run 1: 17174 Run 2: 17130 Run 3: 11874 Run 4: 12049 aver:12769.4
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5620 Run 1: 17038 Run 2: 17038 Run 3: 17038 Run 4: 17087 aver:14764.2
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5622 Run 1: 12144 Run 2: 17436 Run 3: 17178 Run 4: 17107 aver:13897.4
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5620 Run 1: 5620 Run 2: 5620 Run 3: 5622 Run 4: 5622 aver:5620.8
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5620 Run 1: 5621 Run 2: 5622 Run 3: 5620 Run 4: 5620 aver:5620.6
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 1 Run 1: 0 Run 2: 0 Run 3: 0 Run 4: 0 aver:0.2
+Optimal value: 0
+Proximity = Infinityp43
+ Run 0: 5620 Run 1: 5620 Run 2: 5620 Run 3: 5622 Run 4: 5620 aver:5620.4
+Optimal value: 0
+Proximity = Infinity

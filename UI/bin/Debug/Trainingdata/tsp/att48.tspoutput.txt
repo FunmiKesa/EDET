@@ -1,0 +1,4 @@
+
+att48 Run 0: 10653 Run 1: 10653 Run 2: 10653 Run 3: 10688 Run 4: 10628 aver:10655
+Optimal value: 10628
+Proximity = 0.00254045916447121

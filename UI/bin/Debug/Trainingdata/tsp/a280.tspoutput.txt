@@ -1,0 +1,7 @@
+
+a280 Run 0: 2853 aver:2853
+Optimal value: 0
+Proximity = Infinity
+a280 Run 0: 2792 Run 1: 2884 Run 2: 2895 Run 3: 2932 Run 4: 2850 aver:2870.6
+Optimal value: 0
+Proximity = Infinity

@@ -1,0 +1,7 @@
+tai200_10_0.fsp
+ Run 0: 11185 Run 1: 11083 Run 2: 11075 Run 3: 11082 Run 4: 11152 aver:11115.4
+Optimal value: 0
+Proximity = Infinitytai200_10_0.fsp
+ Run 0: 11182 Run 1: 11086 Run 2: 11043 Run 3: 11164 Run 4: 10985 Run 5: 11156 Run 6: 11094 Run 7: 11051 Run 8: 11143 Run 9: 11080 aver:11098.4
+Optimal value: 0
+Proximity = Infinity

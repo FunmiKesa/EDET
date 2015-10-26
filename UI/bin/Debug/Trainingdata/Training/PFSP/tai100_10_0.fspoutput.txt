@@ -1,0 +1,31 @@
+tai100_10_0.fsp
+ Run 0: 6706 Run 1: 6611 Run 2: 6723 Run 3: 6652 Run 4: 6652 aver:6668.8
+Optimal value: 0
+Proximity = Infinitytai100_10_0.fsp
+ Run 0: 5958 Run 1: 6042 Run 2: 6031 Run 3: 6191 Run 4: 6028 aver:6050
+Optimal value: 0
+Proximity = Infinitytai100_10_0.fsp
+ Run 0: 6017 Run 1: 6006 Run 2: 5931 Run 3: 5928 Run 4: 6021 aver:5980.6
+Optimal value: 0
+Proximity = Infinitytai100_10_0.fsp
+ Run 0: 5957 Run 1: 5973 Run 2: 6003 Run 3: 5941 Run 4: 5971 aver:5969
+Optimal value: 0
+Proximity = Infinitytai100_10_0.fsp
+ Run 0: 5973 Run 1: 6002 Run 2: 6132 Run 3: 6091 Run 4: 6032 aver:6046
+Optimal value: 0
+Proximity = Infinitytai100_10_0.fsp
+ Run 0: 5999 Run 1: 5955 Run 2: 5999 Run 3: 6054 Run 4: 5992 aver:5999.8
+Optimal value: 0
+Proximity = Infinitytai100_10_0.fsp
+ Run 0: 5930 Run 1: 6010 Run 2: 5914 Run 3: 6239 Run 4: 6123 aver:6043.2
+Optimal value: 0
+Proximity = Infinitytai100_10_0.fsp
+ Run 0: 5941 Run 1: 6040 Run 2: 5995 Run 3: 6017 Run 4: 6058 aver:6010.2
+Optimal value: 0
+Proximity = Infinitytai100_10_0.fsp
+ Run 0: 5991 Run 1: 6059 Run 2: 6141 Run 3: 6086 Run 4: 5989 Run 5: 6064 Run 6: 6071 Run 7: 6069 Run 8: 5983 Run 9: 6037 aver:6049
+Optimal value: 0
+Proximity = Infinitytai100_10_0.fsp
+ Run 0: 6074 Run 1: 5955 Run 2: 6031 Run 3: 5980 Run 4: 6057 Run 5: 5937 Run 6: 6065 Run 7: 6085 Run 8: 5995 Run 9: 6048 aver:6022.7
+Optimal value: 0
+Proximity = Infinity

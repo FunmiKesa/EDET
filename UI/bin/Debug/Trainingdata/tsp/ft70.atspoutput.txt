@@ -1,0 +1,7 @@
+ft70
+ Run 0: 331 Run 1: 438 Run 2: 440 Run 3: 406 Run 4: 421 aver:407.2
+Optimal value: 0
+Proximity = Infinityft70
+ Run 0: 49385 Run 1: 49140 Run 2: 48656 Run 3: 48455 Run 4: 49912 aver:49109.6
+Optimal value: 0
+Proximity = Infinity

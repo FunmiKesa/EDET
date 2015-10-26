@@ -1,0 +1,4 @@
+
+eil51 Run 0: 432 Run 1: 429 Run 2: 428 Run 3: 431 Run 4: 430 aver:430
+Optimal value: 426
+Proximity = 0.00938967136150235

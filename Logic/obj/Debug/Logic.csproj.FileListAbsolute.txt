@@ -1,0 +1,9 @@
+C:\Users\Oluwafunmilola\Documents\Visual Studio 2012\Projects\SimpleDifferentialEvolution\Logic\bin\Debug\Logic.dll
+C:\Users\Oluwafunmilola\Documents\Visual Studio 2012\Projects\SimpleDifferentialEvolution\Logic\bin\Debug\Logic.pdb
+C:\Users\Oluwafunmilola\Documents\Visual Studio 2012\Projects\SimpleDifferentialEvolution\Logic\bin\Debug\Core.dll
+C:\Users\Oluwafunmilola\Documents\Visual Studio 2012\Projects\SimpleDifferentialEvolution\Logic\bin\Debug\Data.dll
+C:\Users\Oluwafunmilola\Documents\Visual Studio 2012\Projects\SimpleDifferentialEvolution\Logic\bin\Debug\Core.pdb
+C:\Users\Oluwafunmilola\Documents\Visual Studio 2012\Projects\SimpleDifferentialEvolution\Logic\bin\Debug\Data.pdb
+C:\Users\Oluwafunmilola\Documents\Visual Studio 2012\Projects\SimpleDifferentialEvolution\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\Oluwafunmilola\Documents\Visual Studio 2012\Projects\SimpleDifferentialEvolution\Logic\obj\Debug\Logic.dll
+C:\Users\Oluwafunmilola\Documents\Visual Studio 2012\Projects\SimpleDifferentialEvolution\Logic\obj\Debug\Logic.pdb

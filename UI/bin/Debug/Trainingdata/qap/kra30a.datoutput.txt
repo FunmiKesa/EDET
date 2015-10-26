@@ -1,0 +1,7 @@
+
+ Run 0: 92000 Run 1: 91160 Run 2: 90700 Run 3: 90600 Run 4: 90200 aver:90932
+Optimal value: 88900
+Proximity = 0.0228571428571429
+ Run 0: 90870 Run 1: 91300 Run 2: 91460 Run 3: 91160 Run 4: 91560 aver:91270
+Optimal value: 88900
+Proximity = 0.0266591676040495
