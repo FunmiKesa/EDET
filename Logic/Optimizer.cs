@@ -122,7 +122,7 @@ namespace Logic
 
             #endregion
             // this.ProgressIndicator.RaiseProgress("Mutation and Recombination phase...", 0);
-            while (generation < numberOfGenerations && bestValue > input.ThresholdMin && !this.ProgressIndicator.Cancel)
+            while (generation < numberOfGenerations /*&& bestValue > input.ThresholdMin*/ && !this.ProgressIndicator.Cancel)
             {
                 insertedIndexes[generation + 1] = "";
               
